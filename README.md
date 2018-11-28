@@ -8,3 +8,6 @@ Make different kinds of typical **Visual Effects** which could be valuable refer
 
 ![](./Images/Projectile_VFX2.png) 
 
+### The First Try: Electricity VFX
+
+![](./Images/Electicity_VFX.png) 
