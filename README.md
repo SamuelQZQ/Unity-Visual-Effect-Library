@@ -1,6 +1,6 @@
 # Unity-Visual-Effect-Library
 
-Make different kinds of typical **Visual Effects** which could be valuable reference.
+Make different kinds of typical **Visual Effects** which can be valuable references.
 
 ### The First Try: Projectile VFX
 
