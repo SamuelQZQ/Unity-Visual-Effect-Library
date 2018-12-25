@@ -18,3 +18,10 @@ Make different kinds of typical **Visual Effects** which can be valuable referen
 `Assets/_Shaders/GlobalFog`
 
 ![](./Images/GlobalFog_Shader.png) 
+
+### Outline && OuterGlow Shader
+`Assets/_Shaders/OuterGlowDemo`
+
+`Assets/_Shaders/OutlineDemo`
+
+![](./Images/Outline+OutGlow_Shader.png) 
